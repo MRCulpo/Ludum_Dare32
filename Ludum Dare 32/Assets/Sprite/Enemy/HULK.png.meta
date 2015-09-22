@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: c101764eddccdd047a0c5cfdc2591add
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: HULK_0
+    21300002: HULK_1
+    21300004: HULK_2
+    21300006: HULK_3
+    21300008: HULK_4
+    21300010: HULK_5
+    21300012: HULK_6
+    21300014: HULK_7
+    21300016: HULK_8
+    21300018: HULK_9
+    21300020: HULK_10
+    21300022: HULK_11
+    21300024: HULK_12
+    21300026: HULK_13
+    21300028: HULK_14
+    21300030: HULK_15
+    21300032: HULK_16
+    21300034: HULK_17
+    21300036: HULK_18
+    21300038: HULK_19
+    21300040: HULK_20
+    21300042: HULK_21
+    21300044: HULK_22
+    21300046: HULK_23
+    21300048: HULK_24
+    21300050: HULK_25
+    21300052: HULK_26
+    21300054: HULK_27
+    21300056: HULK_28
+    21300058: HULK_29
+    21300060: HULK_30
+    21300062: HULK_31
+    21300064: HULK_32
+    21300066: HULK_33
+    21300068: HULK_34
+    21300070: HULK_35
+    21300072: HULK_36
+    21300074: HULK_37
+    21300076: HULK_38
+    21300078: HULK_39
+    21300080: HULK_40
+    21300082: HULK_41
+    21300084: HULK_42
+    21300086: HULK_43
+    21300088: HULK_44
+    21300090: HULK_45
+    21300092: HULK_46
+    21300094: HULK_47
+    21300096: HULK_48
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: HULK_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 800
+        width: 120
+        height: 124
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 818
+        width: 162
+        height: 92
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 822
+        width: 80
+        height: 102
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 710
+        width: 58
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 708
+        width: 56
+        height: 88
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_5
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 710
+        width: 56
+        height: 82
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 708
+        width: 68
+        height: 62
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 714
+        width: 66
+        height: 106
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_8
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 714
+        width: 92
+        height: 102
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_9
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 712
+        width: 96
+        height: 68
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_10
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 712
+        width: 88
+        height: 68
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 616
+        width: 74
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 616
+        width: 54
+        height: 84
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 616
+        width: 90
+        height: 84
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_14
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 616
+        width: 68
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_15
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 614
+        width: 72
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_16
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 616
+        width: 88
+        height: 82
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 518
+        width: 62
+        height: 88
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 508
+        width: 66
+        height: 96
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_19
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 508
+        width: 54
+        height: 80
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 508
+        width: 54
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 417
+        width: 60
+        height: 85
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 417
+        width: 106
+        height: 79
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 417
+        width: 108
+        height: 79
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 417
+        width: 66
+        height: 75
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_25
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 417
+        width: 66
+        height: 75
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_26
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 417
+        width: 80
+        height: 73
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_27
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 417
+        width: 98
+        height: 73
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 309
+        width: 60
+        height: 86
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_29
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 309
+        width: 88
+        height: 102
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_30
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 309
+        width: 78
+        height: 102
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 211
+        width: 74
+        height: 102
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 211
+        width: 78
+        height: 62
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_33
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 211
+        width: 102
+        height: 62
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_34
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 209
+        width: 48
+        height: 98
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_35
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 209
+        width: 72
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_36
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 201
+        width: 66
+        height: 70
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 109
+        width: 74
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_38
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 109
+        width: 58
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_39
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 109
+        width: 56
+        height: 92
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_40
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 107
+        width: 66
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_41
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 107
+        width: 86
+        height: 92
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_42
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 107
+        width: 84
+        height: 90
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_43
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 107
+        width: 68
+        height: 92
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 60
+        height: 88
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_45
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 5
+        width: 90
+        height: 48
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_46
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 7
+        width: 96
+        height: 38
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_47
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 7
+        width: 84
+        height: 62
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HULK_48
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 7
+        width: 84
+        height: 62
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

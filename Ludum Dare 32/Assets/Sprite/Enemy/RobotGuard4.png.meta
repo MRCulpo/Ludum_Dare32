@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 39ef09444a8c7b24bb16bc5c1e51315a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RobotGuard4_0
+    21300002: RobotGuard4_1
+    21300004: RobotGuard4_2
+    21300006: RobotGuard4_3
+    21300008: RobotGuard4_4
+    21300010: RobotGuard4_5
+    21300012: RobotGuard4_6
+    21300014: RobotGuard4_7
+    21300016: RobotGuard4_14
+    21300018: RobotGuard4_15
+    21300020: RobotGuard4_21
+    21300022: RobotGuard4_22
+    21300024: RobotGuard4_23
+    21300026: RobotGuard4_24
+    21300028: RobotGuard4_25
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RobotGuard4_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 199
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGuard4_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 198
+        width: 41
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGuard4_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 199
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGuard4_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 198
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGuard4_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 200
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGuard4_5
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 230
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGuard4_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 232
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGuard4_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 235
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGuard4_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 99
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGuard4_15
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 105
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGuard4_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 113
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGuard4_22
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 105
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGuard4_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 106
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGuard4_24
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 121
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RobotGuard4_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 102
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

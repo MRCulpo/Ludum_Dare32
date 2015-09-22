@@ -1,0 +1,872 @@
+fileFormatVersion: 2
+guid: fcffb608c5f85c4488fc603b3a2d3cce
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Medusa_0
+    21300002: Medusa_1
+    21300004: Medusa_2
+    21300006: Medusa_3
+    21300008: Medusa_4
+    21300010: Medusa_5
+    21300012: Medusa_6
+    21300014: Medusa_7
+    21300016: Medusa_23
+    21300018: Medusa_24
+    21300020: Medusa_25
+    21300022: Medusa_26
+    21300024: Medusa_27
+    21300026: Medusa_28
+    21300028: Medusa_29
+    21300030: Medusa_30
+    21300032: Medusa_31
+    21300034: Medusa_32
+    21300036: Medusa_33
+    21300038: Medusa_34
+    21300040: Medusa_35
+    21300042: Medusa_36
+    21300044: Medusa_37
+    21300046: Medusa_41
+    21300048: Medusa_42
+    21300050: Medusa_43
+    21300052: Medusa_44
+    21300054: Medusa_47
+    21300056: Medusa_48
+    21300058: Medusa_49
+    21300060: Medusa_50
+    21300062: Medusa_51
+    21300064: Medusa_54
+    21300066: Medusa_55
+    21300068: Medusa_57
+    21300070: Medusa_58
+    21300072: Medusa_59
+    21300074: Medusa_60
+    21300076: Medusa_61
+    21300078: Medusa_62
+    21300080: Medusa_74
+    21300082: Medusa_75
+    21300084: Medusa_76
+    21300086: Medusa_79
+    21300088: Medusa_80
+    21300090: Medusa_81
+    21300092: Medusa_82
+    21300094: Medusa_83
+    21300096: Medusa_84
+    21300098: Medusa_85
+    21300100: Medusa_86
+    21300102: Medusa_87
+    21300104: Medusa_88
+    21300106: Medusa_89
+    21300108: Medusa_90
+    21300110: Medusa_91
+    21300112: Medusa_92
+    21300114: Medusa_93
+    21300116: Medusa_94
+    21300118: Medusa_95
+    21300120: Medusa_97
+    21300122: Medusa_99
+    21300124: Medusa_101
+    21300126: Medusa_105
+    21300128: Medusa_106
+    21300130: Medusa_107
+    21300132: Medusa_108
+    21300134: Medusa_109
+    21300136: Medusa_110
+    21300138: Medusa_111
+    21300140: Medusa_112
+    21300142: Medusa_114
+    21300144: Medusa_116
+    21300146: Medusa_118
+    21300148: Medusa_82
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Medusa_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 571
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 570
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_2
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 570
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 570
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 570
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_5
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 570
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_6
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 570
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_7
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 570
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 483
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 483
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_25
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 483
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_26
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 483
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_27
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 483
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 483
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_29
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 483
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_30
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 483
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_31
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 483
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_32
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 483
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_33
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 483
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_34
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 483
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_35
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 483
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_36
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 483
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_37
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 483
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 399
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_42
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 401
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 400
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_44
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 401
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_47
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 403
+        width: 70
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_48
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 403
+        width: 68
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_49
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 403
+        width: 72
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_50
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 403
+        width: 73
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_51
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 403
+        width: 74
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_54
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 403
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_55
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 403
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_57
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 301
+        width: 60
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_58
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 301
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_59
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 301
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_60
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 301
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_61
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 301
+        width: 56
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_62
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 301
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_74
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 191
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_75
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 191
+        width: 77
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_76
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 193
+        width: 75
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_79
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 191
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_80
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 191
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_81
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 191
+        width: 67
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_82
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 191
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_83
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 191
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_84
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 191
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_85
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 191
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_86
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 100
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 100
+        width: 69
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_88
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 100
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_89
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 100
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_90
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 100
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_91
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 100
+        width: 100
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_92
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 100
+        width: 102
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_93
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 100
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_94
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 146
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_95
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 100
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_97
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 100
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_99
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 100
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_101
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 100
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_105
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 11
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_106
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 11
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_107
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 11
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_108
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 11
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_109
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 11
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_110
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 11
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_111
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 11
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_112
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 11
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_114
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 11
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_116
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 11
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_118
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 11
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Medusa_82
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 397
+        width: 77
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
